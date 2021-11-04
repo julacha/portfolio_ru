@@ -1,6 +1,6 @@
 @import url("fonts.css");
 body{
-    font-family: 'Mukta', sans-serif;
+    font-family: 'Caveat', cursive;
     margin: 5px;
 }
 .logo{
@@ -304,7 +304,7 @@ a .desc{
     align-items: flex-end;
 }
 p{
-    font-family: 'La Belle Aurore';
+    font-family: 'Caveat', cursive;
     font-size: 25px;
     margin-right: 5px;
     margin-left: 5px;
