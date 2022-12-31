@@ -331,8 +331,11 @@ nav{
     display: flex;
     justify-content: space-around;
     height: auto;
-    align-items: center;
+    /* align-items: center; */
 }
+/* .ex{
+align-items: center;
+} */
 nav a{
     font-family: 'Chivo', sans-serif;
     font-size: 20px;
