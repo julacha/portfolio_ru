@@ -384,8 +384,9 @@ h4{
     background-color: beige;
     display:inline-flex;
     flex-direction: column;
-    justify-content: space-around;
+    /*justify-content: space-around;*/
     align-items: center;
+    justify-content: center;
 }
 .date_1{
     grid-area: 3/1/4/2;
